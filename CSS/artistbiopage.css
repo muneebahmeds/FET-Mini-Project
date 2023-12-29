@@ -218,4 +218,23 @@ ul li a:hover {
   .action__btns {
     margin: auto;
   }
+  .social_media_logo{
+    margin: auto;
+  }
 }
+
+.social_media_logo{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+.image_logo1{
+    /* margin-left: 5px; */
+    margin-right: 5px;
+}
+.image_logo{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
